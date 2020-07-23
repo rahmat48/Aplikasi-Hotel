@@ -1,0 +1,6 @@
+D:\kuliah online\Pemograman\Coding\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\kuliah online\Pemograman\Coding\Hotel\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+D:\kuliah online\Pemograman\Coding\Hotel\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\kuliah online\Pemograman\Coding\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\kuliah online\Pemograman\Coding\Hotel\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\kuliah online\Pemograman\Coding\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb
